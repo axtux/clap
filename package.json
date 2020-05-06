@@ -1,0 +1,24 @@
+{
+  "name": "clap",
+  "version": "1.0.0",
+  "description": "clap detection software",
+  "main": "test.js",
+  "dependencies": {
+    "clap-detector": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axtux/clap.git"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/axtux/clap/issues"
+  },
+  "homepage": "https://github.com/axtux/clap#readme"
+}
