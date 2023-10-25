@@ -4,7 +4,7 @@
   "description": "clap detection software",
   "main": "test.js",
   "dependencies": {
-    "clap-detector": "^0.5.1"
+    "clap-detector": "^0.5.3"
   },
   "devDependencies": {},
   "scripts": {
